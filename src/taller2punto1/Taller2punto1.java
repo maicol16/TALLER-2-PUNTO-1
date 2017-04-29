@@ -32,7 +32,7 @@ public class Taller2punto1 {
         int p = 1;
         int q = 6;
  
-        System.out.println("Minimum distance between " + p + " and " + q 
+        System.out.println("Distancia mínima entre" + p + " and " + q 
                 + " is " + min.minDist(arr, n, p, q));
     }
 }
